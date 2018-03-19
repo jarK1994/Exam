@@ -1,0 +1,21 @@
+{
+  "name": "jaruwan",
+  "version": "1.0.0",
+  "description": "start nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "jaruwan",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "firebase": "^4.11.0",
+    "koa": "^2.5.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-parser": "^1.0.4",
+    "koa-router": "^7.4.0"
+  },
+  "devDependencies": {}
+}
